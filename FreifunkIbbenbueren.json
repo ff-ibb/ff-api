@@ -2,7 +2,7 @@
   "name": "Freifunk Ibbenbüren",
   "url": "http://osnabrueck.freifunk.net/standorte/freifunk-ibbenbueren",
   "location": {
-    "city": "Ibbenbueren",
+    "city": "Ibbenbueren,"
     "country": "DE",
     "lat": 52.274978,
     "lon": 7.71456
@@ -11,6 +11,7 @@
     "email": "ff-ibb@gmx.de",
     "facebook": "https://facebook.com/freifunkibbenbueren"
   },
+  "metacommunity": "Freifunk Osnabrueck",
   "state": {
     "nodes": 30,
     "focus": [
