@@ -1,42 +1,36 @@
-﻿{
-  "name": "Freifunk Ibbenbüren",
-  "url": "http://osnabrueck.freifunk.net/standorte/freifunk-ibbenbueren",
+{
+  "name": "Freifunk Ibbenbueren",
+  "url": "http://ibbenbueren.freifunk.net",
   "location": {
-    "city": "Ibbenbueren",
+    "city": "ibbenbueren",
     "country": "DE",
     "lat": 52.274978,
     "lon": 7.71456
   },
   "contact": {
-    "email": "ff-ibb@gmx.de",
-    "facebook": "https://facebook.com/freifunkibbenbueren"
+    "email": "FreifunkIbbenbueren@posteo.de"
   },
+  "metacommunity": "Freifunk Osnabrueck",
   "state": {
-    "nodes": 30,
     "focus": [
-      "infrastructure/backbone",
       "Public Free Wifi",
-      "Social Community Building"
+      "Social Community Building",
+      "Local services and content",
+      "Free internet access"
     ],
-    "lastchange": "2015-03-25T14:01:30.627Z"
+    "lastchange": "2015-05-05T20:16:05.601Z"
   },
-  "nodeMaps": [
-    {
-      "url": "http://osnabrueck.freifunk.net/standorte/",
-      "interval": "5min",
-      "technicalType": "netmon",
-      "mapType": "geographical"
-    }
-  ],
   "techDetails": {
-    "firmware": {
-      "name": "gluon"
-    },
     "routing": [
       "batman-adv"
     ],
-    "updatemode": [],
-    "legals": []
+    "updatemode": [
+      "autoupdate"
+    ],
+    "legals": [
+      "vpnnational",
+      "vpninternational"
+    ]
   },
-  "api": "0.4.6"
+  "api": "0.4.8"
 }
