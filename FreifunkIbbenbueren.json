@@ -1,6 +1,6 @@
 {
   "name": "Freifunk Ibbenbueren",
-  "url": "http://ibbenbueren.freifunk.net",
+  "url": "https://freifunk-ibbenbueren.net",
   "location": {
     "city": "ibbenbueren",
     "country": "DE",
@@ -8,7 +8,7 @@
     "lon": 7.71456
   },
   "contact": {
-    "email": "FreifunkIbbenbueren@posteo.de"
+    "email": "ff-ibb@freifunk-ibbenbueren.net"
   },
   "metacommunity": "Freifunk Osnabrueck",
   "state": {
@@ -18,7 +18,7 @@
       "Local services and content",
       "Free internet access"
     ],
-    "lastchange": "2015-05-05T20:16:05.601Z"
+    "lastchange": "2016-04-01T20:16:05.601Z"
   },
   "techDetails": {
     "routing": [
